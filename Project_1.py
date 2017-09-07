@@ -8,10 +8,8 @@
 
 # The norm N is 10,000
 N = 10000
-
 # The adder A is 4,857
 A = 4857
-
 # The multiplier is 8,601
 M = 8601
 
