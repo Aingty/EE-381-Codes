@@ -21,8 +21,8 @@ A = 4857
 # The multiplier is 8,601
 M = 8601
 
+# Input the Seed
 #S = input("Enter seed number. ")
-# Setting S to 1 Manually
 S = 1;
 
 for i in range(k):
