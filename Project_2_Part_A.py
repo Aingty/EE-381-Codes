@@ -6,7 +6,7 @@
 # Bernoulli Trials, Bayes' Rule, and General Probability
 #   This program needs to be explained
 
-print('Bernoulli Trial Simulation.')
+print('\nBernoulli Trial Simulation.')
 
 # Cast the number to float for success rate
 p = float(input('Enter the Probability of Success:  '))
