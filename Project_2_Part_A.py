@@ -4,7 +4,6 @@
 # 9/07/2017
 # EE 381 Project 2
 # Bernoulli Trials, Bayes' Rule, and General Probability
-#   This program needs to be explained
 
 print('\nBernoulli Trial Simulation.')
 
