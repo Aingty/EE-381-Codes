@@ -2,7 +2,7 @@
 
 # Aingty Eung 
 # 10/10/2017
-# EE 381 Project 3
+# EE 381 Project 3_Part_B
 # Binomial Distribution
 ## If the problem is a binomially distributed Random Variable...
 ### Let n be the number of trials be 5 with probablility of success
